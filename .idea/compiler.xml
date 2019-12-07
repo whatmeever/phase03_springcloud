@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sc01pojo" />
+        <module name="sc02provider" />
+        <module name="sc03eureka_server10000" />
+        <module name="sc04eureka_server10001" />
+        <module name="sc05eureka_server10002" />
+        <module name="sc06provider8002" />
+        <module name="sc07provider8003" />
+        <module name="sc08consumer_ribbon9001" />
+        <module name="sc09consumer_feign" />
+        <module name="sc10hystrix" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

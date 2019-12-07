@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc01pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc02provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc03eureka_server10000" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc04eureka_server10001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc05eureka_server10002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc06provider8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc07provider8003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc08consumer_ribbon9001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc09consumer_feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc10hystrix" charset="UTF-8" />
+  </component>
+</project>

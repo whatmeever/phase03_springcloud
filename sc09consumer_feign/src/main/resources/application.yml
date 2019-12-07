@@ -1,0 +1,9 @@
+server:
+  port: 9007
+eureka: #注册中心的地址
+  client:
+    service-url:
+      defaultZone: http://localhost:10000/eureka
+spring:
+  application:
+    name: sc09consumer-feign

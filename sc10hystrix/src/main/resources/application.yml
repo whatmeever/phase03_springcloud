@@ -1,0 +1,9 @@
+server:
+  port: 9008
+eureka: #注册中心的地址
+  client:
+    service-url:
+      defaultZone: http://localhost:10000/eureka #curl风格
+spring:
+  application:
+    name: sc10hystrix
